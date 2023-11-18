@@ -1,6 +1,6 @@
 const data = [
-    { name: "john", age: 24, profession: "developer" },
-    { name: "jane", age: 27, profession: "admin" },
+    { name: "sanket", age: 23, profession: "developer" },
+    { name: "shikhar", age: 30, profession: "admin" },
   ];
   
   // 1. Print Developers
